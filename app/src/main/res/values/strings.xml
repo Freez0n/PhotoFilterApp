@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Фильтр фото</string>
+    <string name="choose_photo">Выбрать фото</string>
+    <string name="save_photo">Сохранить</string>
+</resources>
